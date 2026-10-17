@@ -1,0 +1,5 @@
+ride_id,seq,lat,lon,label,time
+DEMO1,1,45.0612,7.6778,Porta Nuova,2026-10-16 09:30
+DEMO1,2,45.0711,7.6853,Piazza Castello,
+DEMO1,3,45.0804,7.6922,La Centrale (Nuvola Lavazza),
+DEMO1,4,45.0793,7.6897,Dorado (Lungo Dora Firenze 37),

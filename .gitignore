@@ -1,0 +1,10 @@
+# caches and private exports never go in the repo
+data/raw/
+**/Timeline*.json
+**/location-history*.json
+**/Records.json
+web/photos/originals/
+.DS_Store
+__pycache__/
+out/_*.geojson
+.venv/

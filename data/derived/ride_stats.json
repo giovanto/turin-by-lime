@@ -1,0 +1,93 @@
+[
+ {
+  "ride_id": "L1",
+  "source": "timeline+router",
+  "start": "2026-10-16 18:45",
+  "km": 2.37,
+  "minutes": 12.3,
+  "share_dedicated_pct": 9,
+  "share_painted_pct": 21,
+  "share_mixed_pct": 55,
+  "km_with_tram_alongside": 0.85,
+  "tram_crossings": 4,
+  "tram_crossings_sharp": 0,
+  "stops_20s": 1,
+  "km_pedestrian": 0.36,
+  "pedestrian_by_bicycle_tag_m": {
+   "yes": 302,
+   "untagged": 60
+  },
+  "gps_points_dropped": 21,
+  "by_kind_m": {
+   "painted lane": 497,
+   "mixed traffic": 1306,
+   "pedestrian street": 362,
+   "cycleway": 208
+  },
+  "lime_km": 2.2,
+  "lime_duration": "14:26",
+  "lime_when": "2026-10-16 18:45\u201319:00",
+  "anchors": "receipt sketch; Dorado end from 17-10 photo GPS"
+ },
+ {
+  "ride_id": "L2",
+  "source": "timeline+router",
+  "start": "2026-10-17 10:11",
+  "km": 2.8,
+  "minutes": 16.5,
+  "share_dedicated_pct": 7,
+  "share_painted_pct": 14,
+  "share_mixed_pct": 62,
+  "km_with_tram_alongside": 0.29,
+  "tram_crossings": 6,
+  "tram_crossings_sharp": 1,
+  "stops_20s": 0,
+  "km_pedestrian": 0.48,
+  "pedestrian_by_bicycle_tag_m": {
+   "yes": 267,
+   "untagged": 211
+  },
+  "gps_points_dropped": 29,
+  "by_kind_m": {
+   "painted lane": 393,
+   "mixed traffic": 1747,
+   "cycleway": 185,
+   "pedestrian street": 478
+  },
+  "lime_km": 2.7,
+  "lime_duration": "18:02",
+  "lime_when": "2026-10-17 10:11\u201310:29",
+  "anchors": "receipt sketch; 2 photos + 1 video with GPS"
+ },
+ {
+  "ride_id": "L3",
+  "source": "timeline+router",
+  "start": "2026-10-17 15:31",
+  "km": 3.0,
+  "minutes": 14.0,
+  "share_dedicated_pct": 3,
+  "share_painted_pct": 0,
+  "share_mixed_pct": 74,
+  "km_with_tram_alongside": 0.25,
+  "tram_crossings": 7,
+  "tram_crossings_sharp": 1,
+  "stops_20s": 0,
+  "km_pedestrian": 0.38,
+  "pedestrian_by_bicycle_tag_m": {
+   "yes": 190,
+   "untagged": 188
+  },
+  "gps_points_dropped": 26,
+  "by_kind_m": {
+   "mixed traffic": 2212,
+   "pedestrian street": 378,
+   "cycleway": 100,
+   "quiet street": 289,
+   "unmatched": 21
+  },
+  "lime_km": 3.0,
+  "lime_duration": "14:55",
+  "lime_when": "2026-10-17 15:31\u201315:45",
+  "anchors": "receipt sketch; Dorado start from photo GPS"
+ }
+]
